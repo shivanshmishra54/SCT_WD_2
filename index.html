@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="A modern, glowing calculator by Shivansh Mishra. Built using HTML, CSS, JavaScript." />
+    <meta name="keywords"
+        content="calculator by Shivansh, calculator app, online calculator, Shivansh Mishra calculator" />
+    <meta name="author" content="Shivansh Mishra" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <div class="wrapper">
+
+        
+
+        <div class="calculator">
+            <input type="text" placeholder="0" id="inputBox">
+
+            <div>
+                <button class="op">AC</button>
+                <button class="op">DEL</button>
+                <button class="op">%</button>
+                <button class="op">/</button>
+                
+            </div>
+            <div>
+                <button class="op">sin</button>
+                <button class="op">cos</button>
+                <button class="op">tan</button>
+                <button class="op">√</button>
+            </div>
+            <div>
+                <button class="op">log</button>
+                <button class="op">x²</button>
+                <button class="op">π</button>
+                <button class="op">e</button>
+            </div>
+            <div>
+                <button>7</button>
+                <button>8</button>
+                <button>9</button>
+                <button class="op">*</button>
+
+            </div>
+            <div>
+                <button>4</button>
+                <button>5</button>
+                <button>6</button>
+                <button class="op">-</button>
+
+            </div>
+            <div>
+                <button>1</button>
+                <button>2</button>
+                <button>3</button>
+                <button class="op">+</button>
+
+            </div>
+            <div>
+                <button>00</button>
+                <button>0</button>
+                <button>.</button>
+                <button class="equal">=</button>
+
+            </div>
+            
+        </div>
+    </div>
+    
+    <div id="history" class="history">
+        <div class="history-header">
+                <span class="op">History</span>
+                <button id="clearHistory" class="clear-btn">❌</button>
+            </div>
+            <div id="historyList"></div>
+        </div>
+    </div>
+    <audio id="clickSound" src="assets/click-sound.mp3"></audio>
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>

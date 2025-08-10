@@ -46,15 +46,7 @@ calculator/
 │-- click-sound.mp3
 │-- index.html
 │-- README.md
-📜 Internship Context
-This project was assigned to me during my Web Developer Internship at SkillCraft Technology to demonstrate my ability to create an interactive, user-friendly, and responsive web application from scratch.
 
-📌 Future Enhancements
-Dark/Light theme toggle
-
-Scientific notation support
-
-Keyboard input support
 ## 🧑‍🎓 Author
 
 **Shivansh Mishra**  

@@ -17,10 +17,10 @@ It features both basic and advanced mathematical operations, a history panel wit
   - Tracks previous calculations  
   - Saved in `localStorage` (persists after refresh)  
   - One-click ❌ clear button  
-- **Mode Toggle**: Switch between **Normal** and **Advanced** modes  
+ 
 - **Responsive Design**: Works smoothly on desktop, tablet, and mobile  
 - **Modern UI**:
-  - Glowing title effect  
+  
   - Custom scrollbar styling  
   - Button hover and click animations  
 

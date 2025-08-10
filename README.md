@@ -32,6 +32,9 @@ It features both basic and advanced mathematical operations, a history panel wit
 - **JavaScript (ES6)** – Calculator logic and interactivity  
 
 ---
+## 📸 Screenshots
+<img width="929" height="889" alt="image" src="https://github.com/user-attachments/assets/9c8ea1a5-5d83-49ad-84b7-03f83826c636" />
+
 
 ## 📂 Project Structure
 calculator/
@@ -52,3 +55,20 @@ Dark/Light theme toggle
 Scientific notation support
 
 Keyboard input support
+## 🧑‍🎓 Author
+
+**Shivansh Mishra**  
+📧 shivansh54mishra@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivansh-mishra54)  
+🔗 [GitHub](https://github.com/shivanshmishra54)
+
+---
+
+## 📜 License
+
+This project is open source and free to use.
+
+---
+
+> ⚠️ **Note:** This calculator is part of my internship journey and is still evolving with new features and improvements. Feedback is welcome!
+

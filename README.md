@@ -3,7 +3,7 @@
 A modern, responsive web calculator built using **HTML, CSS, and JavaScript**, developed as part of my **Web Developer Internship at SkillCraft Technology**.  
 It features both basic and advanced mathematical operations, a history panel with permanent storage, and a clean UI design.  
 
-🔗 **Live Demo:** [Click here to play](https://your-live-demo-link.com)
+🔗 **Live Demo:** [Click here to Calculate](https://shivanshmishra54.github.io/SCT_WD_2/)
 ---
 
 ## 🚀 Features
